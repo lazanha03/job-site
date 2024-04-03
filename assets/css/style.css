@@ -1,0 +1,62 @@
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-container > div {
+  justify-content: space-between;
+}
+.titulo {
+  font-size: 28px;
+  width: 179px;
+  height: 33px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Rubik;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 33.18px;
+  letter-spacing: -0.15555556118488312px;
+  text-align: left;
+
+}
+.meio{
+  font-size: 15px;
+  width: 333px;
+  height: 26px;
+  top: 7px;
+  left: 586px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Gilroy;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 26px;
+  letter-spacing: -0.10000000149011612px;
+  text-align: center;
+
+
+}
+.login{
+  font-size: 15px;
+  width: 133px;
+  height: 26px;
+  top: 7px;
+  left: 1375px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Gilroy;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 26px;
+  letter-spacing: -0.10000000149011612px;
+  text-align: center;
+
+
+
+}
+
+.imagem {
+  top: 124px;
+  left: 904px;
+}
